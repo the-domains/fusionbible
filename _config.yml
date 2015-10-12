@@ -1,6 +1,7 @@
 name: fusionbible
 favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.19756
 title: A simple church on a simple mission
 cta:
   domain: null
